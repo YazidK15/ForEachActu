@@ -151,3 +151,21 @@ header {
 #articles li {
     max-width: 25%;
 }
+
+/* Footer */
+
+footer {
+    background-color: #e36060;
+    padding: 20px;
+}
+
+footer ul {
+    display: flex;
+    justify-content: center;
+}
+
+footer li {
+    margin-right: 20px;
+    font-size: 17px;
+    color: white;
+}
