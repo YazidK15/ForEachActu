@@ -96,20 +96,20 @@ header {
     cursor: pointer;
 }
 
-/* Culture */
+/* Articles */
 
-#culture {
+#articles {
     max-width: 1300px;
     margin: auto;
 }
 
-#culture h2 {
+#articles h2 {
     color: #c65252;
     font-family: Chunkotf;
     margin-top: 30px;
 }
 
-#culture ul {
+#articles ul {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -148,6 +148,6 @@ header {
     font-size: 17px;
 }
 
-#culture li {
+#articles li {
     max-width: 25%;
 }
