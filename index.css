@@ -144,6 +144,10 @@ header {
     overflow: hidden;
 }
 
+.menu_description h3 {
+    font-size: 17px;
+}
+
 #culture li {
     max-width: 25%;
 }
